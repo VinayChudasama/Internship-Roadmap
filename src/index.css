@@ -1,0 +1,82 @@
+html,
+body {
+  height: 100%;
+}
+#root,
+.main-wrapper,
+.main-wrapper nav {
+  height: 100%;
+}
+.main-wrapper nav {
+  width: 280px;
+  flex-shrink: 0;
+  background-color: rgb(0, 91, 169);
+  background-image: url(assets/cool-background.svg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+.main-wrapper nav a {
+  text-decoration: none;
+}
+.logo-img {
+  object-fit: contain;
+  width: auto;
+  height: 25px;
+}
+.mantine-Modal-title {
+  font-weight: 500;
+}
+.header {
+  z-index: 100;
+  height: 60px;
+  max-height: 60px;
+  border-bottom: 1px solid rgb(233, 236, 239);
+  display: flex;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  flex-shrink: 0;
+}
+.content-wrapper {
+  padding-bottom: 20px;
+  height: 100%;
+  background-color: rgb(231, 236, 246);
+}
+
+.sub-header {
+  border-bottom: 1px solid rgb(222, 226, 230);
+  background-color: #fff;
+  padding: 16px;
+}
+.table-container {
+  padding: 16px;
+}
+.table-container tbody {
+  background-color: #fff;
+}
+.table-container th,
+.table-container td {
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+.content-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.45;
+  margin: 5px 0px 0px;
+}
+.mantine-Breadcrumbs-root a {
+  color: rgb(0, 91, 169);
+  font-size: 14px;
+  line-height: 1.55;
+}
+.menu-collapse {
+  position: absolute;
+  left: 0;
+}
+.batch-link {
+  color: rgb(0, 91, 169);
+  font-weight: 500;
+  text-transform: uppercase;
+  text-decoration: none;
+}

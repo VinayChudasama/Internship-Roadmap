@@ -1,0 +1,66 @@
+{
+  "roadMap": [
+    {
+      "id": "1",
+      "topic": "HTML Fundamentals",
+      "subtopic": "Lorem Ipsum Dummy Goes here for the emo periv ",
+      "duration": "30m"
+    },
+    {
+      "id": "2",
+      "topic": "Text Elements",
+      "subtopic": "Lorem Ipsum Dummy Goes here for the emo periv ",
+      "duration": "1hr"
+    },
+    {
+      "id": "3",
+      "topic": "List Elements Added",
+      "subtopic": "Lorem Ipsum Dummy Goes here for the emo periv ",
+      "duration": "15m"
+    },
+    {
+      "id": "4e7a",
+      "topic": "Image Element",
+      "subtopic": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt tempore ",
+      "duration": "1hr"
+    },
+    {
+      "id": "6ce7",
+      "topic": "Table Element",
+      "subtopic": "Manually updating the DOM: changing text content and adding/removing classes ",
+      "duration": "1hr 30m"
+    }
+  ],
+  "internshipBatch": [
+    {
+      "id": "1",
+      "batchname": "Jan-2019",
+      "startdate": "05-Jan-2019",
+      "enddate": "20-May-2019"
+    },
+    {
+      "id": "ad73",
+      "batchname": "July-2020",
+      "startdate": "2020-07-16T18:30:00.000Z",
+      "enddate": "2020-12-24T18:30:00.000Z"
+    },
+    {
+      "id": "a9fe",
+      "batchname": "demo",
+      "startdate": "2024-01-19T18:30:00.000Z",
+      "enddate": "2024-02-01T18:30:00.000Z"
+    },
+    {
+      "id": "e013",
+      "batchname": "New Batch",
+      "startdate": "2024-01-25T18:30:00.000Z",
+      "enddate": "2024-01-24T18:30:00.000Z"
+    },
+    {
+      "id": "9e35",
+      "batchname": "dgdg",
+      "startdate": "2024-01-24T18:30:00.000Z",
+      "enddate": "2024-01-25T18:30:00.000Z"
+    }
+  ]
+}
